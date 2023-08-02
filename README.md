@@ -59,5 +59,5 @@ Contributions are welcome through forking my repository.
 None
 
 ## Questions:
-- Github: (https://github.com/Prototype1309/Employee-traquer/blob/main/README.md)
+- Github: [Prototype-1309](https://github.com/Prototype1309/Employee-traquer/blob/main/README.md)
 - Email: simo.hourri@gmail.com
