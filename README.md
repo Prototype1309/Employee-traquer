@@ -47,7 +47,8 @@ This is an employee tracker database created in the UW Coding Bootcamp. It allow
 - Type npm start into the terminal
 - Answer prompts in terminal to view, add, and update the database
 
-Link to Video of Walkthrough for Demonstration:
+Link to Video of Walkthrough for Demonstration: [click here](https://drive.google.com/file/d/1BFNzW99Ilvs-FsRH2ENWvBe0MmG4GOrZ/view)
+
 
 ## License:
 MIT
